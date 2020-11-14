@@ -63,3 +63,4 @@ SOFTWARE.
       
 ![Online Mode](https://user-images.githubusercontent.com/30538162/99153817-1ffc1300-2668-11eb-8cdb-81b43c8ed8ed.png)
    
+![OffLine Mode](https://user-images.githubusercontent.com/30538162/99153833-4d48c100-2668-11eb-837f-762b38a61c36.png)
