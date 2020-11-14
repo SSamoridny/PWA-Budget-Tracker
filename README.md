@@ -1,6 +1,6 @@
 
 
-# Budget Tracker
+# PWA Budget Tracker
 ![](https://img.shields.io/badge/README-GOODREADME-brightgreen)
 
 ## Table of Contents
@@ -12,19 +12,19 @@
 
 ## Description: 
 
-         In this project we simply take a normal webpage/ app with a database and add offline capabilities
+         In this project we have created a PWA style budget tracker which can be used in online or offline mode. As the budget imputs are taken offline, they will be held in the app until you go online again, at this time your inputs will be pushed to the database.
 
 ## Installation:
 
-         This will run with our Heroku app so a simple link is all you will need
+         This is a simple heroku app so there is no installation needed.
 
 ## Usage:
 
-         Upon opening the link you will see our Budget Tracker. If you go into Chrome Dev tools and toggle between their online and offline modes you will be able to still have a fully functioning app that will simply push the changes once you again come online.
+         Upon opening the app you may save it to your home screen on a mobile device. From there follow the simple prompts and enter a transaction name and dollar amount. Yo uwill see your value rise and fall along with a graph showing the transactions. 
 
 ## Credits:
 
-        Fil Labourde-Basto, Daniel Ceballos 
+        Fil, Daniel, Levi Halvorson
 
 ## GitHUb Adress:
 
