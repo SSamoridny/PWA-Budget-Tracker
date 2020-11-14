@@ -17,6 +17,7 @@
 ## Installation:
 
          This is a simple heroku app so there is no installation needed.
+         https://github.com/SSamoridny/PWA-Budget-Tracker 
 
 ## Usage:
 
@@ -32,7 +33,7 @@
 
 ## Email Address:
 
-        ssamoridny@gmail.com
+        ssamoridny@gmail.com 
 
 ## License:
     
