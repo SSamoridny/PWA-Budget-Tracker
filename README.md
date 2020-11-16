@@ -17,10 +17,11 @@
 ## Installation:
 
          This is a simple heroku app so there is no installation needed.
+         https://dashboard.heroku.com/apps/cryptic-brook-73198 
 
 ## Usage:
 
-         Upon opening the app you may save it to your home screen on a mobile device. From there follow the simple prompts and enter a transaction name and dollar amount. Yo uwill see your value rise and fall along with a graph showing the transactions. 
+         Upon opening the app you may save it to your home screen on a mobile device. From there follow the simple prompts and enter a transaction name and dollar amount. You will see your value rise and fall along with a graph showing the transactions. 
 
 ## Credits:
 
