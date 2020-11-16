@@ -14,9 +14,6 @@ fetch("/api/transaction")
     populateChart();
   });
 
-function saveRecord( data){
-  console.log( 'we are saving the data', data)
-}
 
 function populateTotal() {
   // reduce transaction amounts to a single total value
