@@ -17,11 +17,8 @@
 ## Installation:
 
          This is a simple heroku app so there is no installation needed.
-<<<<<<< HEAD
+
          https://dashboard.heroku.com/apps/cryptic-brook-73198 
-=======
-         https://github.com/SSamoridny/PWA-Budget-Tracker
->>>>>>> a02dfe4bdfa5590acff4a5dd1f9d95d0327e160a
 
 ## Usage:
 
