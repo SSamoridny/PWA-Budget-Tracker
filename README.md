@@ -18,7 +18,7 @@
 
          This is a simple heroku app so there is no installation needed.
    
-[https://cryptic-brook-73198.herokuapp.com/](https://cryptic-brook-73198.herokuapp.com/) 
+[Heroku Link](https://cryptic-brook-73198.herokuapp.com/) 
 
 ## Usage:
 
