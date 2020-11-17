@@ -63,3 +63,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 }
       
+[Large GIF (858x708).gif.zip](https://github.com/SSamoridny/PWA-Budget-Tracker/files/5556496/Large.GIF.858x708.gif.zip)
