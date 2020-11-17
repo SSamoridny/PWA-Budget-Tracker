@@ -18,7 +18,7 @@
 
          This is a simple heroku app so there is no installation needed.
    
-[Budget Tracker App Link. Try it out!](https://cryptic-brook-73198.herokuapp.com/) 
+![Budget Tracker App Link. Try it out!](https://cryptic-brook-73198.herokuapp.com/) 
 
 ## Usage:
 
@@ -34,7 +34,7 @@
 
 ## Email Address:
 
-   [ssamoridny@gmail.com](ssamoridny@gmail.com) 
+   ![ssamoridny@gmail.com](ssamoridny@gmail.com) 
 
 ## License:
     
