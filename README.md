@@ -18,7 +18,7 @@
 
          This is a simple heroku app so there is no installation needed.
    
-         https://dashboard.heroku.com/apps/cryptic-brook-73198 
+         [https://dashboard.heroku.com/apps/cryptic-brook-73198]() 
 
 ## Usage:
 
