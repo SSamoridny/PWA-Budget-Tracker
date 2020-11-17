@@ -34,7 +34,7 @@
 
 ## Email Address:
 
-        ssamoridny@gmail.com 
+         ssamoridny@gmail.com 
 
 ## License:
     
