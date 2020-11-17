@@ -64,3 +64,5 @@ SOFTWARE.
 }
       
 ![PWA Online](https://user-images.githubusercontent.com/30538162/99456831-3b288600-28e7-11eb-8274-4bfb56fea86f.gif)
+
+![PWA Offline to Online](https://user-images.githubusercontent.com/30538162/99457225-dd486e00-28e7-11eb-9042-00535b4a7199.gif)
