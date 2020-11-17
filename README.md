@@ -63,3 +63,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 }
       
+![Small GIF (400x330)](https://user-images.githubusercontent.com/30538162/99456267-5d6dd400-28e6-11eb-8ebb-a5a3cbf03664.gif)
